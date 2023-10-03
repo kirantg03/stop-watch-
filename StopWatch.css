@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+.timer{
+    font-size: 30px;
+    border: 2px;
+    color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    margin: 50px;
+
+}
+
+
+.btn{
+    background-color: #b6ef0b;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 45px;
+    cursor: pointer;
+    
+}
+.btn1{
+    background-color: #b6ef0b;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 40%;
+    cursor: pointer;
+    
+}
